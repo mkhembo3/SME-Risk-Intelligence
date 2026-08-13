@@ -1,4 +1,4 @@
-# 🐴 SME Risk Intelligence & Machine Learning Early-Warning System
+# SME Risk Intelligence & Machine Learning Early-Warning System
 
 ## Overview
 
